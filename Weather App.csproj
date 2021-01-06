@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Weather_App</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons\01d.gif" />
+    <None Remove="icons\01n.gif" />
+    <None Remove="icons\0234d.gif" />
+    <None Remove="icons\0234n.gif" />
+    <None Remove="icons\09d.gif" />
+    <None Remove="icons\09n.gif" />
+    <None Remove="icons\10d.gif" />
+    <None Remove="icons\10n.gif" />
+    <None Remove="icons\11d.gif" />
+    <None Remove="icons\11n.gif" />
+    <None Remove="icons\50d.gif" />
+    <None Remove="icons\50n.gif" />
+    <None Remove="icons\cloudyrain.gif" />
+    <None Remove="icons\test.gif" />
+    <None Remove="icons\wi-cloud.png" />
+    <None Remove="icons\wi-night-clear.png" />
+    <None Remove="icons\wi-rain.png" />
+    <None Remove="icons\wi-raindrops.png" />
+    <None Remove="icons\wi-refresh.png" />
+    <None Remove="icons\wi-snow.png" />
+    <None Remove="icons\wi-thunderstorm.png" />
+    <None Remove="wi-rain.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="icons\01d.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\01n.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\0234d.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\0234n.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\09d.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\09n.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\10d.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\10n.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\11d.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\11n.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\50d.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons\50n.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="WpfAnimatedGif" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>

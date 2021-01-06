@@ -1,0 +1,33 @@
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App_MarkupCompile.cache
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App_MarkupCompile.lref
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\Weather App.exe
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\Weather App.deps.json
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\Weather App.runtimeconfig.json
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\Weather App.runtimeconfig.dev.json
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\Weather App.dll
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\Weather App.pdb
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App.g.resources
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App.AssemblyInfoInputs.cache
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App.AssemblyInfo.cs
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App.csproj.CopyComplete
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App.dll
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App.pdb
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App_Content.g.cs
+D:\Dinesh\mpk-kuantan-weather\Weather App\obj\Debug\netcoreapp3.1\Weather App.csprojAssemblyReference.cache
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\WpfAnimatedGif.dll
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\01d.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\01n.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\0234d.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\0234n.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\09d.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\09n.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\10d.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\10n.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\11d.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\11n.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\50d.gif
+D:\Dinesh\mpk-kuantan-weather\Weather App\bin\Debug\netcoreapp3.1\icons\50n.gif
